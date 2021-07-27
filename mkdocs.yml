@@ -69,6 +69,7 @@ nav:
   - LMS: 
     - lms-1: 'lms/seite1.md'
     - lms-2: 'lms/seite2.md'
+    - lms-3: 'lms/testseite_Sophie.md'
   - Kurse einbinden: 
     - seite1: 'integration/seite1.md'
   - Über uns: 'about.md'
