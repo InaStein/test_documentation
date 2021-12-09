@@ -19,7 +19,7 @@
   .md-typeset h2 {
     margin: px2em(40px, 25px) 0 px2em(16px, 25px);
     color: var(--md-primary-fg-color);
-    font-weight: 700;
+    font-weight: 400;
     font-size: px2em(25px);
     line-height: 1.4; 
     letter-spacing: -0.01em;
@@ -27,17 +27,13 @@
   
   .md-typeset h3 {
     margin: px2em(32px, 20px) 0 px2em(16px, 20px);
-    font-weight: 700;
+    font-weight: 400;
     font-size: px2em(20px);
     line-height: 1.5;
     letter-spacing: 0.01em;
   }
   
-  .md-typeset h4 {
-    margin: px2em(16px);
-    font-weight: 400;
-    letter-spacing: 0.01em;
-  }
+  
   
   .md-logo 
       img,
