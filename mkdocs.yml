@@ -17,7 +17,11 @@ extra_css:
   
   
 markdown_extensions:
-  - pymdownx.emoji:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.progressbar- pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
