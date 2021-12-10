@@ -47,7 +47,7 @@ theme:
     - search.share
     - search.suggest
   font:
-    text: Poppins Black
+    text: Poppins
     
   palette:
     - scheme: kic
